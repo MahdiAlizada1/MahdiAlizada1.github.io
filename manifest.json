@@ -2,7 +2,7 @@
   "name": "RIVO Planning",
   "short_name": "RIVO",
   "description": "Daily planner for students and professionals",
-  "start_url": "./Student Planner.dc.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#161826",
